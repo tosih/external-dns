@@ -75,7 +75,7 @@ var (
 		"sa-east-1.elb.amazonaws.com":         "Z2P70J7HTTTPLU",
 		"cn-north-1.elb.amazonaws.com.cn":     "Z3BX2TMKNYI13Y",
 		"cn-northwest-1.elb.amazonaws.com.cn": "Z3BX2TMKNYI13Y",
-		"us-gov-west-1.amazonaws.com":         "Z1K6XKP9SAGWDV",
+		"us-gov-west-1.elb.amazonaws.com":     "Z33AYJ8TM3BH4J",
 		"me-south-1.elb.amazonaws.com":        "ZS929ML54UICD",
 		// Network Load Balancers
 		"elb.us-east-2.amazonaws.com":         "ZLMOA37VPKANP",
